@@ -18,10 +18,15 @@ overflow-x:hidden;
 }
 p{
 color:#fff;
-
 }
 #logo span{
 font-family:h;
 text-transform:none;
 font-size:28px;
+}
+#hero{
+background-image: url('../img/img-decor-01.jpg');
+background-position:center;
+background-size:cover;
+height:600px;
 }
