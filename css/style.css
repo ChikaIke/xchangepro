@@ -16,6 +16,10 @@ overflow-x:hidden;
     font-family:h;
     src: url("../fonts/Zantroke.otf");
 }
+p{
+color:#fff;
+
+}
 #logo span{
 font-family:h;
 text-transform:none;
